@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 运行缓存（非源码）
+matplotlib_cache/
+Ultralytics/
+.runtime/
+runs/
+
+# 本地数据与打包产物
+datasets/
+*.rar
+*.zip
+*.tar.gz
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini

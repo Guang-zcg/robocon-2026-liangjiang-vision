@@ -1,0 +1,14 @@
+target_mode: single
+target_slot: 1
+target_class: rack_connector
+grab_center_x: 283
+grab_center_y: 330
+alignment_axes: x
+align_threshold_px: 30.0
+lock_frames: 5
+lost_frames: 6
+min_detections: 3
+min_confidence: 0.35
+type_consistency_weight: 0.18
+max_slot_spacing_cv: 0.45
+roi:
